@@ -27,7 +27,7 @@ education:
       year: 2023
     - course: BS in Economics
       institution: The Wharton School of University of Pennsylvania
-      year: 2048
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
