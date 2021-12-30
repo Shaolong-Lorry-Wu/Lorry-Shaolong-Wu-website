@@ -26,7 +26,7 @@ abstract: In the labor market of the United States, a wide range of
   of related areas.
 tags: []
 projects: []
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "3"
@@ -34,6 +34,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: picture1.png
 summary: ""
 url_dataset: ""
 url_project: ""
