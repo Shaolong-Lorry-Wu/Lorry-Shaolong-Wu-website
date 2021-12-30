@@ -1,6 +1,6 @@
 ---
-title: Shaolong (Lorry) Wu
 role: ""
+avatar_filename: lorry-wu-se.jpeg
 bio: My research interests include asset pricing, applied econometrics, and data
   mining.
 interests: []
@@ -28,9 +28,10 @@ education:
     - course: BS in Economics
       institution: The Wharton School of University of Pennsylvania
       year: 2022
-email: ""
 superuser: true
 highlight_name: true
+title: Shaolong (Lorry) Wu
+email: ""
 ---
 Shaolong (Lorry) Wu is a third-year student pursuing B.S. in economics in The Wharton School and M.S. in Electrical Engineering in the School of Engineering and Applied Sciences at University of Pennsylvania.
 
