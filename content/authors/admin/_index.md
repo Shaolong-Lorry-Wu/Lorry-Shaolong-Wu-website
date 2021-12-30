@@ -18,19 +18,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shaolong-lorry-wu/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pennsylvania
+    url: https://www.upenn.edu
+  - name: Wharton
+    url: https://www.wharton.upenn.edu
+  - name: Penn Engineering
+    url: https://www.seas.upenn.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Electrical Engineering
+      institution: School of Engineering and Applied Sciences, University of Pennsylvania
+      year: 2023
+    - course: BS in Economics
+      institution: The Wharton School of University of Pennsylvania
+      year: 2045
 email: ""
 superuser: true
 highlight_name: true
