@@ -1,6 +1,6 @@
 ---
 title: Shaolong (Lorry) Wu
-role: Candidate for BS,MS at University of Pennsylvania
+role: ""
 bio: My research interests include asset pricing, applied econometrics, and data
   mining.
 interests: []
