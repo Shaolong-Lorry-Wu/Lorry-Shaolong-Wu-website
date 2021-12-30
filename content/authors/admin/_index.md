@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: shaolong@seas.upenn.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://undergrad-inside.wharton.upenn.edu/spur-2021-lorry-wu/
@@ -20,10 +20,6 @@ social:
 organizations:
   - name: University of Pennsylvania
     url: https://www.upenn.edu
-  - name: Wharton
-    url: https://www.wharton.upenn.edu
-  - name: Penn Engineering
-    url: https://www.seas.upenn.edu
 education:
   courses:
     - course: MS in Electrical Engineering
@@ -31,7 +27,7 @@ education:
       year: 2023
     - course: BS in Economics
       institution: The Wharton School of University of Pennsylvania
-      year: 2045
+      year: 2048
 email: ""
 superuser: true
 highlight_name: true
