@@ -34,6 +34,6 @@ highlight_name: true
 ---
 Shaolong (Lorry) Wu is a third-year student pursuing B.S. in economics in The Wharton School and M.S. in Electrical Engineering in the School of Engineering and Applied Sciences at University of Pennsylvania.
 
-His research interests asset pricing, applied econometrics, and data mining in urban analytics and finance.
+His research interests asset pricing, applied econometrics, and data mining in urban analytics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
