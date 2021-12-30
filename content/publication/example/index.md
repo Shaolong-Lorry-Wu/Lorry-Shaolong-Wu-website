@@ -1,7 +1,7 @@
 ---
-title: "SPUR "
-subtitle: Econometric Analysis of Labor Income and Job Seeking Disparities in
-  the United States
+title: Econometric Analysis of Labor Income and Job Seeking Disparities in the
+  United States
+subtitle: ""
 authors:
   - Shaolong Wu
 author_notes: []
@@ -25,14 +25,13 @@ abstract: In the labor market of the United States, a wide range of
   forensic analysis and leaves the question of job search motivations to authors
   of related areas.
 tags: []
-projects:
-  - example
+projects: []
 slides: example
 url_pdf: ""
 publication_types:
   - "3"
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 summary: ""
@@ -42,9 +41,9 @@ url_source: ""
 url_video: ""
 publication: Scholarly Commons, University of Pennsylvania
 featured: true
-date: 2021-12-30T01:32:14.212Z
+date: 2021-12-30T01:49:53.152Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
